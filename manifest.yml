@@ -1,9 +1,9 @@
 ---
-name : the-minimum
-website : http://studiomohawk.github.com/jekyll-bootstrap/
-git_url : git://github.com/jekyllbootstrap/theme-the-minimum.git
-source_url : https://github.com/jekyllbootstrap/theme-the-minimum
+name : the-rrocks
+website : https://github.com/ruparocks/theme-rrocks
+git_url : git://github.com/ruparocks/theme-rrocks.git
+source_url : https://github.com/ruparocks/theme-rrocks
 author:
-  name : Yuya Saito
-  email : cssradar@gmail.com
-  website : http://css.studiomohawk.com/
+  name : Rupa Sharma
+  email : rupasharma86@gmail.com
+  website : http://www.ruparocks.com
