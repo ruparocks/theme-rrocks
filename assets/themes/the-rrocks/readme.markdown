@@ -1,11 +1,11 @@
 ## Theme info
 
-Theme Name: the\_minimum  
-Description: A minimumlist theme for [jekyll](https://github.com/mojombo/jekyll).Theming is done on [Jekyll-Bootstrap](http://jekyllbootstrap.com/).  
-Author: Yuya Saito @ [\_layout](http://layouts-the.me/)  
+Theme Name: the\_rrocks  
+Description: A theme for [jekyll](https://github.com/mojombo/jekyll).Theming is done on [Jekyll-Bootstrap](http://jekyllbootstrap.com/).  
+Author: Rupa Sharma 
 Version: 1.0
 
-## About the \_minimum
+## About the \_rrocks
 
 - Love minimalism? So do I. I've put some effort on typography(not the type face) so your reader won't need Readability to read your content.
 - Design is simple so is the code behind it. You can easily customize it.
